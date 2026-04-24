@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-// import 'package:flutter_application_1/main_widgets/home.dart';
+import 'package:flutter_application_1/main_widgets/home.dart';
 
 void main() {
   runApp(const MyApp());
@@ -90,6 +90,7 @@ class _MyHomePageState extends State<MyHomePage> {
 }
 */
 // ____ Aqui en para la parte de contenedores del curso ____
+/*
 class MyHomePage extends StatefulWidget {
   const MyHomePage({super.key, required String title});
 
@@ -113,3 +114,4 @@ class _MyHomePageState extends State<MyHomePage> {
     );
   }
 }
+*/
